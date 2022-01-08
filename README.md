@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **Machine learning and Deep learning Projects**
 - 🌱 I’m currently learning **Everything**
 - 👯 I’m looking to collaborate on any **Data Science related projects**
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1sdMxvpcVy7QSK9WtcVEj5mIC01_Fz8orjuhAIP1MScM/edit?usp=drivesdk](https://docs.google.com/document/d/1sdMxvpcVy7QSK9WtcVEj5mIC01_Fz8orjuhAIP1MScM/edit?usp=drivesdk)
 - 💬 Ask me about **ML | DL | AI**
 
 
