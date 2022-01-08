@@ -1,5 +1,5 @@
-### Hi there 👋
-### I am Ekaagra Dubey
+## Hi there 👋
+## I am Ekaagra Dubey
 
 - 🔭 I’m currently working on Machine learning and Deep learning Projects
 - 🌱 I’m currently learning everything 
