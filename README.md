@@ -1,3 +1,8 @@
+<head>
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+</head>
+
+<body>
 <h1 align="left">Hi 👋, I'm Ekaagra Dubey</h1>
 <h3 align="left">A passionate Data Scientist from India</h3>
 
@@ -23,13 +28,6 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekaagra08&show_icons=true&locale=en&layout=compact" alt="ekaagra08" /></p>
 
-
-### Contact 📫
-ekaagra@gmail.com | linkedin.com/in/ekaagra08
-
-### Tech Stack :
-python, HTML, CSS, JS, ML, Computer Vision, NLP, keras, tensorflow, OpenCV, Flask
-
 <div class="row "> 
     <div class="mt-3">
     <h5>Machine Learning</h5>
@@ -50,3 +48,4 @@ python, HTML, CSS, JS, ML, Computer Vision, NLP, keras, tensorflow, OpenCV, Flas
     </div>
     </div>
 </div>
+</body>
