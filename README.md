@@ -3,12 +3,15 @@
 <a href=" https://bit.ly/ekaagra_resume"><img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge"></a>
 <a href="https://ekaagra08.github.io"><img src="https://img.shields.io/badge/portfolio_website-000?style=for-the-badge&logo=rss&logoColor=white"></a>
 </p>
-<h3 align="left">A passionate Data Scientist from India</h3>
+<h3 align="left">A passionate Machine Learning Engineer from India</h3>
 
 - 🔭 I’m currently working on **Machine learning and Deep learning Projects**
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Everything** 📚
 - 👯 I’m looking to collaborate on any **Data Science related projects**
 - 💬 Ask me about **ML | DL | AI**
+
+<!--#########################################################################-->
+<hr>
 <!--#########################################################################-->
 
 <h3 align="left">Connect with me :</h3>
@@ -17,6 +20,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekaagra08)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/ekaagra-dubey)
 
+
+<!--#########################################################################-->
+<hr>
 <!--#########################################################################-->
 
 <h3 align="left">Languages and Tools :</h3>
@@ -42,10 +48,5 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev)
 
-<!--#########################################################################-->
-<br>
-<br>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekaagra08&show_icons=true&locale=en&layout=compact" alt="ekaagra08" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekaagra08&show_icons=true&locale=en&layout=compact" alt="ekaagra08" />
 
