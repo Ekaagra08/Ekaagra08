@@ -1,6 +1,8 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Ekaagra Dubey</h1>
+<p align="left">
 <a href=" https://bit.ly/ekaagra_resume"><img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge&logo=sheet"></a>
 <a href="https://ekaagra08.github.io"><img src="https://img.shields.io/badge/portfolio_website-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+</p>
 <h3 align="left">A passionate Data Scientist from India</h3>
 
 - 🔭 I’m currently working on **Machine learning and Deep learning Projects**
@@ -9,14 +11,14 @@
 - 💬 Ask me about **ML | DL | AI**
 <!--#########################################################################-->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ekaagra08"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:ekaagra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <!--#########################################################################-->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <div align="left"> 
 
 <a style="width:40px;" href="https://www.python.org" target="_blank" rel="noreferrer">
