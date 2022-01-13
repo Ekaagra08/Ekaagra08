@@ -11,12 +11,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/ekaagra08" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaagra08"  width="26" /></a>
+<a href="https://linkedin.com/in/ekaagra08" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaagra08"  width="26" />
+</a>
 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="left"> 
 
 <a style="width:40px;" href="https://www.python.org" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" />
@@ -83,8 +85,10 @@
 </a> 
 
 <a style="width:40px;" href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="26" /></a> 
-</p>
+    <img align="left" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="26" />
+</a> 
+
+</div>
 
 <br>
 
