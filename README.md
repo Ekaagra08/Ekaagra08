@@ -1,31 +1,26 @@
 
 <h1 align="left">Hi 👋, I'm Ekaagra Dubey</h1>
+<a href="https://ekaagra08.github.io/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 <h3 align="left">A passionate Data Scientist from India</h3>
+
 
 - 🔭 I’m currently working on **Machine learning and Deep learning Projects**
 - 🌱 I’m currently learning **Everything**
 - 👯 I’m looking to collaborate on any **Data Science related projects**
 - 💬 Ask me about **ML | DL | AI**
 
+<br>
+<!--#########################################################################-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ekaagra08"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a style="width:40px;" href="https://linkedin.com/in/ekaagra08" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaagra08"  width="25" />
-</a>
-
-<a style="width:40px;" href="mailto:ekaagra@gmail.com" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaagra08"  width="25" />
-</a>
-
-<a style="width:40px;" href="https://ekaagra08.github.io/" target="blank">
-    <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-
+<a href="mailto:ekaagra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <br>
+<!--#########################################################################-->
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
@@ -101,7 +96,7 @@
 </div>
 
 <br>
-<br>
+<!--#########################################################################-->
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekaagra08&show_icons=true&locale=en&layout=compact" alt="ekaagra08" />
