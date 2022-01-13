@@ -12,7 +12,15 @@
 <p align="left">
 
 <a style="width:40px;" href="https://linkedin.com/in/ekaagra08" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaagra08"  width="26" />
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaagra08"  width="25" />
+</a>
+
+<a style="width:40px;" href="mailto:ekaagra@gmail.com" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaagra08"  width="25" />
+</a>
+
+<a style="width:40px;" href="https://ekaagra08.github.io/" target="blank">
+    <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 
 </p>
