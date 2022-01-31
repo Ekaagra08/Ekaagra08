@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Ekaagra Dubey</h1>
 <p align="left">
 <a href="https://bit.ly/ekaagra_resume"><img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge"></a>
-<a href="https://ekaagra08.github.io"><img src="https://img.shields.io/badge/portfolio_website-000?style=for-the-badge&logo=rss&logoColor=white"></a>
+<a href="https://ekaagra08.github.io"><img src="https://img.shields.io/badge/portfolio_website-000?style=for-the-badge"></a>
 </p>
 <h3 align="left">A passionate Machine Learning Engineer from India</h3>
 
